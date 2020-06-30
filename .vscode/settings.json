@@ -1,0 +1,16 @@
+{ 
+
+    "editor.fontSize": 16,   
+
+    "files.trimTrailingWhitespace": true, 
+
+    "terminal.integrated.fontSize": 16, 
+
+    "window.zoomLevel": 1.6,
+    "azureFunctions.deploySubpath": "bin/Release/netcoreapp3.1/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish"
+
+} 
